@@ -40,3 +40,6 @@ TestResults/
 ## ASP.NET
 project.lock.json
 project.fragment.
+
+.env
+
